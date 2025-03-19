@@ -1,41 +1,19 @@
-Hi , I'm Eric
-A
+🌟 Hi, I'm Eric A 👋
+About Me
+💡 A passionate learner exploring the fascinating world of computer science and programming. I'm dedicated to improving and expanding my knowledge every day!
 
+Skills
+🖥️ Languages
+🔹 Dart (Beginner) 🔗
 
+🎨 Front-End Development
+🔹 HTML5 🔹 CSS3 🔹 JavaScript (Beginner)
 
- About me
+☁️ Cloud Hosting
+🔹 GitHub Pages 🔗 
 
+⚙️ Softwares and Tools
+🔹 Git 🔹 GitHub 🔹 Google 🔹 Visual Studio Code 🔹 Windows
 
-A passionate individual who loves learning about computer science and programming. I am currently in the process of learning, and I strive to improve and expand my knowledge every day.
-
-
-
-
-
-
- Skills
-
-
-Languages:
-
-dart (beginner)
-
-
-Front-End Development:
-
-HTML5 CSS3 JavaScript(beginner)
-
-
-Cloud Hosting:
-
-Github Pages
-
-
-Softwares and Tools:
-
-Git GitHub Google Visual Studio Code Windows
-
-
-Extras:
-
-Terminal 
+💻 Extras
+🔹 Terminal 🔗 
