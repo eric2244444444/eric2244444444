@@ -15,7 +15,7 @@ Hi there! I'm **Eric**, an 18-year-old student currently diving into the world o
 - **Tools & Platforms:**
   - 💻 Windows Terminal
   - 🖥️ Visual Studio Code
-  - 🏡 Windows OS
+  - https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white
 
 ---
 
