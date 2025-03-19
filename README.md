@@ -1,32 +1,41 @@
-![https___img shields](https://github.com/user-attachments/assets/3e79f139-b366-4aec-8d05-2eecbf1c99b6)### 👋 About Me
-Hi there! I'm **Eric**, an 18-year-old student currently diving into the world of **Computer Science** and **Programming**. I'm always excited to learn, grow, and explore new horizons in tech! 🚀
-
----
-
-### 🛠️ Skills
-- **Programming Languages:**
-  - 🌟 JavaScript (Beginner)
-  - 🌟 Dart (Beginner)
-  - 🌟 HTML & CSS
-
----
-
-### 🌟 Extras
-- **Tools & Platforms:**
-  - 💻 Windows Terminal
-  - 🖥️ Visual Studio Code
-  - ![Uploading <?xml version="1.0" encoding="utf-8"?>
-<svg xmlns="http://www.w3.org/2000/svg" aria-label="WINDOWS" height="28" role="img" width="92.75">
-  <title>WINDOWS</title>
-  <g shape-rendering="crispEdges">
-    <rect fill="#0078d6" height="28" width="92.75"/>
-  </g>
-  <g fill="#fff" font-family="Verdana,Geneva,DejaVu Sans,sans-serif" font-size="100" text-anchor="middle" text-rendering="geometricPrecision">
-    <text fill="#fff" font-weight="bold" textLength="687.5" transform="scale(.1)" x="463.75" y="175">WINDOWS</text>
-  </g>
-</svg>https___img.shields.svg…]()
+Hi , I'm Eric
+A
 
 
----
 
-_✨ Let's create and innovate together!_
+ About me
+
+
+A passionate individual who loves learning about computer science and programming. I am currently in the process of learning, and I strive to improve and expand my knowledge every day.
+
+
+
+
+
+
+ Skills
+
+
+Languages:
+
+dart (beginner)
+
+
+Front-End Development:
+
+HTML5 CSS3 JavaScript(beginner)
+
+
+Cloud Hosting:
+
+Github Pages
+
+
+Softwares and Tools:
+
+Git GitHub Google Visual Studio Code Windows
+
+
+Extras:
+
+Terminal 
