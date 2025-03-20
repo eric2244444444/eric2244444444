@@ -45,3 +45,7 @@
 ## ***Projects***
 _To be updated soon!_
 
+<button onclick="window.location.href='https://www.tu-enlace.com';" style="padding: 10px 20px; background-color: #4CAF50; color: white; border: none; border-radius: 5px; cursor: pointer;">
+    Ir al enlace
+</button>
+
