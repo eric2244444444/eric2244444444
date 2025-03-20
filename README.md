@@ -36,8 +36,7 @@
  ## ***Proyects*** 
 
 <div align="center" style="padding: 22px; background-color: #f9f9f9;">
-  <button id="boton" style="background-color: blue; cursor: pointer; display: block; padding: 10px; border: none; button:hover {
-        background: darkblue;  
-        }" > Click  me </button>
+[![Click me](https://via.placeholder.com/150x50.png?text=Clicme)](https://tuenlace.com)
+
  </div
 
