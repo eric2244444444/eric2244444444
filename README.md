@@ -9,11 +9,13 @@
   I am an enthusiastic person about learning programming and computer science. In my free time, I like to play video games and learn about new technologies, or do something interesting like reading a book.
  </div
 
+
 ### ***🚀 Skills I'm Learning***
 <div align="center" style="padding: 22px; background-color: #f9f9f9;"> 
 
 ![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
 </div>
+
 
 ### ***tools and technologies*** 
 
@@ -22,6 +24,7 @@
 
 ![PP](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)   ![Github](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)   ![Pro](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 </div>
+
 
 ## ***My front end skills*** 
 
@@ -37,4 +40,4 @@
         background: darkblue;  
         }" > Click  me </button>
  </div
-****
+
