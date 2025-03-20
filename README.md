@@ -1,19 +1,40 @@
-🌟 Hi, I'm Eric A 👋
-About Me
-💡 A passionate learner exploring the fascinating world of computer science and programming. I'm dedicated to improving and expanding my knowledge every day!
+<h1 align="center">  <em> Eric </em>  </h1> 
+<img src="https://static.vecteezy.com/system/resources/previews/017/764/115/original/wolf-mascot-logo-concept-illustration-cartoon-suitable-for-logo-wallpaper-banner-background-card-book-illustration-t-shirt-design-sticker-cover-etc-vector.jpg" 
+     alt="Foto portada" 
+     style="width: 300px; border-radius: 50%; display: block; margin: 0 auto; border: solid 2px;">
 
-Skills
-🖥️ Languages
-🔹 Dart (Beginner) 🔗
 
-🎨 Front-End Development
-🔹 HTML5 🔹 CSS3 🔹 JavaScript (Beginner)
+## ***Abaut me*** 
+<div align="center" style="padding: 22px; background-color: #f9f9f9; color: gray;">
+  I am an enthusiastic person about learning programming and computer science. In my free time, I like to play video games and learn about new technologies, or do something interesting like reading a book.
+ </div
 
-☁️ Cloud Hosting
-🔹 GitHub Pages 🔗 
+### ***🚀 Skills I'm Learning***
+<div align="center" style="padding: 22px; background-color: #f9f9f9;"> 
 
-⚙️ Softwares and Tools
-🔹 Git 🔹 GitHub 🔹 Google 🔹 Visual Studio Code 🔹 Windows
+![js](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) ![Py](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white) ![dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+</div>
 
-💻 Extras
-🔹 Terminal 🔗 
+### ***tools and technologies*** 
+
+
+<div align="center" style="padding: 22px; background-color: #f9f9f9;">
+
+![PP](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)   ![Github](https://img.shields.io/badge/NVIDIA-GTX1650-76B900?style=for-the-badge&logo=nvidia&logoColor=white)   ![Pro](https://img.shields.io/badge/AMD-Radeon_RX_5500-ED1C24?style=for-the-badge&logo=amd&logoColor=white) ![win](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+</div>
+
+## ***My front end skills*** 
+
+<div align="center" style="padding: 22px; background-color: #f9f9f9;">
+
+![css](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+ </div>
+
+ ## ***Proyects*** 
+
+<div align="center" style="padding: 22px; background-color: #f9f9f9;">
+  <button id="boton" style="background-color: blue; cursor: pointer; display: block; padding: 10px; border: none; button:hover {
+        background: darkblue;  
+        }" > Click  me </button>
+ </div
+****
