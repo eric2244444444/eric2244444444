@@ -45,7 +45,5 @@
 ## ***Projects***
 _To be updated soon!_
 
-<button>
-    Ir al enlace
-</button>
+
 
