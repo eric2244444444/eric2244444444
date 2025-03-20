@@ -35,9 +35,6 @@
 
  ## ***Proyects*** 
 
-<div align="center" style="padding: 22px; background-color: #f9f9f9;">
-<a href="https://tuenlace.com" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif;">Clicme</a>
+<a href="https://tuenlace.com " target="_blank" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif; ">Clicme</a>
 
-
- </div
 
