@@ -3,7 +3,7 @@
 <p align="center">
   <img src="https://static.vecteezy.com/system/resources/previews/017/764/115/original/wolf-mascot-logo-concept-illustration-cartoon-suitable-for-logo-wallpaper-banner-background-card-book-illustration-t-shirt-design-sticker-cover-etc-vector.jpg" 
        alt="Foto portada" 
-       width="300" style="border-radius: 50%; display: block; margin: 0 auto; border: solid 2px;">
+       width="300">
 </p>
 
 ## ***About Me*** 
