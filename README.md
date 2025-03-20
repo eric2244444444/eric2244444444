@@ -36,7 +36,8 @@
  ## ***Proyects*** 
 
 <div align="center" style="padding: 22px; background-color: #f9f9f9;">
-[![Click me](https://via.placeholder.com/150x50.png?text=Clicme)](https://tuenlace.com)
+<a href="https://tuenlace.com" style="display: inline-block; padding: 10px 20px; background-color: #007BFF; color: white; text-decoration: none; border-radius: 5px; font-family: Arial, sans-serif;">Clicme</a>
+
 
  </div
 
